@@ -1,0 +1,28 @@
+/* Write your CSS code here */
+.avatar-url {
+  height: 50px;
+  width: 50px;
+}
+
+.user-container {
+  display: flex;
+  align-items: center;
+}
+
+.author {
+  padding-left: 10px;
+  font-family: 'Roboto';
+  font-size: 17px;
+  font-weight: 400;
+}
+
+.title {
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.img-url {
+  width: 450px;
+  height: 250px;
+}
